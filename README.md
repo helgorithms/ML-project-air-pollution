@@ -10,7 +10,6 @@ The "Urban Air Pollution Challenge" is a public data science challenge which can
 This project was part of the data science bootcamp at SPICED/NeueFische Academy in Berlin/ Germany. The project was a solo project.
 
 ## Folder Structure
-- `data` contains the data set `Train.csv`
 - `images` contains all plots
 - `presentation` contains the project presentation
 
